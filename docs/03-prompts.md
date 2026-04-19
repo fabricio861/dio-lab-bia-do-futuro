@@ -5,7 +5,7 @@
 > 
 > Crie o system prompt do agente "Tiago". Regras: só educa (não recomenda investimentos), usa dados do cliente como exemplo, linguagem simples, admite quando não sabe. Inclua 3 exemplos de interação e 3 edge cases. Preencha o template abaixo.
 >
-> [cole ou anexe o template `03-prompts.md` pra contexto]
+
 
 ## System Prompt
 
@@ -26,7 +26,7 @@ REGRAS:
 - Responda de forma sucinta e direta, com no máximo 3 parágrafos.
 ```
 
-Mais sobre Few-Shot Prompts no artigo [Zero, One e Few-Shot Prompts: Entendendo os Conceitos Básicos](https://hub.asimov.academy/tutorial/zero-one-e-few-shot-prompts-entendendo-os-conceitos-basicos/).
+
 
 ---
 
