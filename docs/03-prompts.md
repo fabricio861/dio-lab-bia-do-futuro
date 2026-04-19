@@ -1,7 +1,6 @@
 # Prompts do Agente
 
-> [!TIP]
-> **Prompt usado para esta etapa:**
+
 
 
 ## System Prompt
